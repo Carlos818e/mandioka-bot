@@ -13,7 +13,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '🇵🇾mandioka_postin🥀\n❏ 𝐿𝑎 𝑓𝑒𝑙𝑖𝑐𝑖𝑑𝑎𝑑 𝑛𝑜 𝑒𝑠 𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑖𝑣𝑜...\n❏ 𝐄𝐬 𝐞𝐥 𝐜𝐚𝐦𝐢𝐧𝐨\n⚠️Carlos Duarte⚠️\n┌ ﹍﹍𝈺﹉﹉﹉𝈻﹍﹍ ┐ \n╭──╼┥𝈸𖾗ᷤ𖾕꯭ͣ𖾔꯭𖾔ͫ𖽙ͧ𝈹┝╾──╮\n╽ ┌──────────┐ ┃\n┃ │ ⚙Carlos Duarte⚙️\n┃ ├──────────┤ ┃\n┃ │✨\n┃ ├──────────┤ ┃\n┃ │    ♥Sexo♥️\n╿ └──────────┘ ╿\n╰─┨⃞🔮𝉃𝜄𝜐𝉃𝜍𝜅𝉃𝛾🔮⃞ ┠─╯ '
-global.author = '➬🌤️🏆𝙎𝙖𝙢𝙪𝟯𝟯𝟬🏆🌤️\n↳  🔥\n\n\n\n\n      🌺ᵇaͤnͨdͬcͤrͣeͭaͥtͮeͤ🌺\n😸𝛴𝑙 𝜀𝜘𝜄𝜏𝜎 𝜀𝜋  𝑙𝛼 𝗩𝗜𝗗𝗔  𝜋𝜎 𝑠𝜀 𝑚𝜄𝜕𝜀 𝜌𝜎𝑟 𝑙𝜎 𝑞𝜇𝜀 𝑙𝜎𝑔𝑟𝛼𝑠,\n𝑆𝜄 𝜋𝜎 𝜌𝜎𝑟 𝑙𝜎𝑠 𝐎𝐁𝐒𝐓𝐀𝐂𝐔𝐋𝐎𝐒 𝑞𝜇𝜀 𝑠𝜇𝜌𝜀𝑟𝛼𝑠. ✨\n\n\n\n\n\n🔮𝑻𝒐𝒅𝒐 𝒔𝒂𝒄𝒓𝒊𝒇𝒊𝒄𝒊𝒐 𝒕𝒓𝒂𝒆 𝒖𝒏𝒂 𝒓𝒆𝒄𝒐𝒎𝒑𝒆𝒏𝒔𝒂🔮\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = '➬🌤🇵🇾Carlos Duarte🏆🌤️\n↳  🔥\n\n\n\n\n      🌺ᵇaͤnͨdͬcͤrͣeͭaͥtͮeͤ🌺\n😸𝛴𝑙 𝜀𝜘𝜄𝜏𝜎 𝜀𝜋  𝑙𝛼 𝗩𝗜𝗗𝗔  𝜋𝜎 𝑠𝜀 𝑚𝜄𝜕𝜀 𝜌𝜎𝑟 𝑙𝜎 𝑞𝜇𝜀 𝑙𝜎𝑔𝑟𝛼𝑠,\n𝑆𝜄 𝜋𝜎 𝜌𝜎𝑟 𝑙𝜎𝑠 𝐎𝐁𝐒𝐓𝐀𝐂𝐔𝐋𝐎𝐒 𝑞𝜇𝜀 𝑠𝜇𝜌𝜀𝑟𝛼𝑠. ✨\n\n\n\n\n\n🔮𝑻𝒐𝒅𝒐 𝒔𝒂𝒄𝒓𝒊𝒇𝒊𝒄𝒊𝒐 𝒕𝒓𝒂𝒆 𝒖𝒏𝒂 𝒓𝒆𝒄𝒐𝒎𝒑𝒆𝒏𝒔𝒂🔮\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 
 global.multiplier = 69 // The higher, The harder levelup
 
